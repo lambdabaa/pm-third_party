@@ -1,0 +1,6 @@
+[submodule "bootstrap"]
+	path = bootstrap
+	url = git@github.com:jobcat/bootstrap.git
+[submodule "pathjs"]
+	path = pathjs
+	url = git@github.com:jobcat/pathjs.git
