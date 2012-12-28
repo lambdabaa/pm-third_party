@@ -4,3 +4,6 @@
 [submodule "pathjs"]
 	path = pathjs
 	url = git@github.com:jobcat/pathjs.git
+[submodule "jquery"]
+	path = jquery
+	url = git@github.com:jobcat/jquery.git
